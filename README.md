@@ -410,6 +410,5 @@ hist(train$residuals, breaks= 100, col = "red") ### plot histogram to see if it 
 
 plot(train$residuals, train$Sale.Price)
 
-
 summary(model6)
-![image](https://github.com/Paduski/Pro1/assets/22614731/0aff4ebe-c448-4f14-b715-a7121dd9667d)
+
